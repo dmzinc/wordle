@@ -58,4 +58,5 @@ Finding appropriate emojis to represent feedback categories was difficult. Symbo
 2. Ensure you have Python installed (version 3.7 or later is recommended).
 
 3. Run the game with:
+bash
     Python wordle.py
